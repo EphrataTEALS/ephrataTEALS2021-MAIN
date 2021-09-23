@@ -1,0 +1,8 @@
+package sampleCode.Chapter1.1-6;
+
+class StarFigures {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
