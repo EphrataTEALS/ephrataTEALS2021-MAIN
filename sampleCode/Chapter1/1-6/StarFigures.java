@@ -1,6 +1,4 @@
-package sampleCode.Chapter1;
-
-class StarFigures {
+public class StarFigures {
 
     public static void main(String[] args) {
         System.out.println("*****");
